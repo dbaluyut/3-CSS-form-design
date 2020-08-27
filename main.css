@@ -61,4 +61,7 @@ select {
   border-style: solid;
   padding: 3px;
   margin-bottom: 10%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url(data:double-arrow.svg);
 }
